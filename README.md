@@ -11,7 +11,7 @@
 <li>pip -V</li>
   </ol>
 pip 20.3.4 from /usr/lib/python3/dist-packages/pip (python 3.8)
-pip
+
 Usage:   
   pip <command> [options]
 
